@@ -1,0 +1,20 @@
+{
+  "name": "chenjiangbin/php-paypal-sdk",
+  "description": "Paypal Sdk Library",
+  "type": "library",
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chen Jiang Bin",
+      "email": "1039274265@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Paypal\\": "src/"
+    }
+  }
+}
