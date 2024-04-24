@@ -6,5 +6,6 @@ class MyClass
     public function hello()
     {
         echo "init test";
+
     }
 }
